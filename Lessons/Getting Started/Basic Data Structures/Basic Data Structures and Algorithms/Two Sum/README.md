@@ -1,9 +1,5 @@
 # Two Sum
 
-### AlgoMonster Lesson
+## [ AlgoMonster Lesson ](https://algo.monster/liteproblems/1)
 
-https://algo.monster/liteproblems/1
-
-### Leet code link
-
-https://leetcode.com/problems/two-sum/description/
+## [ Leet code link ](https://leetcode.com/problems/two-sum/description/)

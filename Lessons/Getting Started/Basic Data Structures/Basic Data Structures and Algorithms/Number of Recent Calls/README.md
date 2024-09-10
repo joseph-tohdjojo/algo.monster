@@ -1,9 +1,5 @@
 # Number of Recent Calls
 
-### AlgoMonster Lesson
+## [ AlgoMonster Lesson ](https://algo.monster/liteproblems/933)
 
-https://algo.monster/liteproblems/933
-
-### Leet code link
-
-https://leetcode.com/problems/number-of-recent-calls/description/
+## [ Leet code link ](https://leetcode.com/problems/number-of-recent-calls/description/)
