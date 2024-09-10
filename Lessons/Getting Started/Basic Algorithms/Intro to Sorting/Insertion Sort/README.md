@@ -1,3 +1,3 @@
-# Array Partition
+# Insertion Sort
 
 ## [AlgoMonster Lesson](https://algo.monster/problems/sorting_intro)
