@@ -1,9 +1,9 @@
 # Reverse Linked List
 
-### AlgoMonster Lesson:
+### AlgoMonster Lesson
 
 https://algo.monster/liteproblems/206
 
-### Leet code link:
+### Leet code link
 
 https://leetcode.com/problems/reverse-linked-list/description/
