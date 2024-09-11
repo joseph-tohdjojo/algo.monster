@@ -1,13 +1,13 @@
-function sortList(unsortedList) {
-  for (let i = 0; i < unsortedList.length; i++) {
-    let current = i;
-
-    while (current > 0 && unsortedList[current] < unsortedList[current - 1]) {
-      const temp = unsortedList[current];
-      unsortedList[current] = unsortedList[current - 1];
-      unsortedList[current - 1] = temp;
-      current--;
+function sortList(list) {
+  for (let i = 1; i < list.length; i++) {
+    for (let j = i; j > -1; j--) {
+      if (list[j] < list[j - 1]) {
+        let temp = list[j - 1];
+        list[j - 1] = list[j];
+        list[j] = temp;
+      }
     }
   }
-  return unsortedList;
+
+  return list;
 }
