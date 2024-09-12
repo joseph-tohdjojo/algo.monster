@@ -1,7 +1,3 @@
-/**
- * @param {number[]} nums
- * @return {number[]}
- */
 function sortList(list) {
   function sort(start, end) {
     if (start === end) return [list[end]];
