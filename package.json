@@ -1,0 +1,12 @@
+{
+  "name": "algo.monster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
